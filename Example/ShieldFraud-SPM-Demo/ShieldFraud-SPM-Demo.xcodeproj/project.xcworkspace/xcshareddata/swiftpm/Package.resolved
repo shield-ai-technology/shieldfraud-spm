@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "shieldfraud-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajdeepak27/shieldfraud-spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "681318e5cb46a107a1f0cddeeda82414b2a93414"
+      }
+    }
+  ],
+  "version" : 2
+}
