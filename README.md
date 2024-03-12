@@ -24,7 +24,7 @@ SHIELD SDK is compatible with apps supporting iOS 12 and above using Swift Packa
 
 **SPM:**
 ```
-.package(url: "https://github.com/shield-ai-technology/shieldfraud-spm.git", from: "1.5.35"),
+.package(url: "https://github.com/shield-ai-technology/shieldfraud-spm.git", from: "1.5.36"),
 ```
 
 **XCODE**
