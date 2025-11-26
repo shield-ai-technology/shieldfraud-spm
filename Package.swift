@@ -2,8 +2,8 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
-let version = "1-5-52"
-let shieldfraud_checksum = "e51bca51d9bc6ec577683ae645245d8665668861573f66154dd5519d43ec3200"
+let version = "1-5-53"
+let shieldfraud_checksum = "de15aa45b4ec4f8540a1e03090a3d4a25f6c963374124343c7279a8c71e02889"
 
 let package = Package(
     name: "shieldfraud-spm",
